@@ -1,0 +1,14 @@
+{
+  "name": "graphqlhello",
+  "version": "1.0.0",
+  "description": "testing graphql",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^14.1.1"
+  }
+}
